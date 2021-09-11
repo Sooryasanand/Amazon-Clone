@@ -1,3 +1,3 @@
 An Amazon Clone made using React JS
 
-Heroku Link: https://amazon-webapp21.herokuapp.com/
+Heroku Link: https://amazon-webapp21.herokuapp.com/ (Sometime's Works)
