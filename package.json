@@ -16,5 +16,17 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "An Amazon Clone made using React JS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sooryasanand/AmazonClone-React-Web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sooryasanand/AmazonClone-React-Web/issues"
+  },
+  "homepage": "https://github.com/Sooryasanand/AmazonClone-React-Web#readme"
 }
